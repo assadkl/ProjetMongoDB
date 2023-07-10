@@ -1,0 +1,6 @@
+# Install with pip install -r requirements.in
+pymongo
+python-dotenv
+pandas
+tqdm
+matplotlib
